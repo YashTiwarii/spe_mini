@@ -1,0 +1,2 @@
+[localhost]
+yash ansible_connection=local
