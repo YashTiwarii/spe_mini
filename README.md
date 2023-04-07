@@ -1,2 +1,2 @@
 # spe_mini
-calculatorrr
+calculatorr
